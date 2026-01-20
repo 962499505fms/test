@@ -1,5 +1,5 @@
 # A2UI 0.9 Widget 动态加载与渲染系统
-
+sk-PNnZ1D7nYvztznOM9sob8w6JVIXIQdRCNzHM38j7gczKBA9Y
 ## 📖 项目概述
 
 这是一个基于 Vue 2 和 A2UI 0.9 协议的 Widget 动态加载与渲染系统，支持从远程加载 vue-web-component 并在画布上动态渲染。
